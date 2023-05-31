@@ -1,6 +1,9 @@
 # JOBxplore
 
-#### Setup to run the app locally
+## Deployed Link: 
+https://jobxplore-nandinip10.onrender.com/
+
+## Setup to run the app locally
 
 ```sh
 npm run install-dependencies
@@ -15,7 +18,7 @@ npm start
 
 - visit url http://localhost:3000/
 
-## About the app:
+## About the app
 JOBxplore- A Job Tracking Application that will keep track of one's progress during the job search process. 
 1. Consists of a STATS page where 
   - user can see pending applications where the 
