@@ -32,5 +32,5 @@ JOBxplore- A Job Tracking Application that will keep track of one's progress dur
 6. A unique feature of Demo App (With just read only) with which any website visitor can view the application without registering/ logging in, but with the restrictions as follows:
   - In a Demo App, the viewer cannot update the user profile.
   - In the Demo App, the viewer cannot edit/ delete/ add jobs.
-  - The main purpose of Demo App is to familiarize one with the functionalities involveed in the JOBxplore Application.
+  - The main purpose of Demo App is to familiarize one with the functionalities involved in the JOBxplore Application.
 7. Error Page is displayed when the path does not exists.
