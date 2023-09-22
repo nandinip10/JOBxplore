@@ -34,3 +34,5 @@ JOBxplore- A Job Tracking Application that will keep track of one's progress dur
   - In the Demo App, the viewer cannot edit/ delete/ add jobs.
   - The main purpose of Demo App is to familiarize one with the functionalities involved in the JOBxplore Application.
 7. Error Page is displayed when the path does not exists.
+
+![registerdemo](https://github.com/nandinip10/JOBxplore/assets/85482570/1ffec3b0-b091-45e6-944b-16489582e771)
